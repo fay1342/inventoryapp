@@ -1,0 +1,13 @@
+edu/au/cpsc/inventory/partspecification/CreatePartSpecification$PartSpecificationModel.class
+edu/au/cpsc/inventory/partspecification/Main.class
+edu/au/cpsc/inventory/partspecification/SupplierRepository.class
+edu/au/cpsc/inventory/partspecification/InMemoryEntityRepository.class
+edu/au/cpsc/inventory/partspecification/CreatePartSpecificationConsoleUserInterface$1.class
+edu/au/cpsc/inventory/partspecification/CreatePartSpecification$SupplierModel.class
+edu/au/cpsc/inventory/partspecification/CreatePartSpecificationConsoleUserInterface$MenuResponse.class
+edu/au/cpsc/inventory/partspecification/CreatePartSpecificationConsoleUserInterface.class
+edu/au/cpsc/inventory/partspecification/Entity.class
+edu/au/cpsc/inventory/partspecification/PartSpecificationRepository.class
+edu/au/cpsc/inventory/partspecification/PartSpecification.class
+edu/au/cpsc/inventory/partspecification/Supplier.class
+edu/au/cpsc/inventory/partspecification/CreatePartSpecification.class
